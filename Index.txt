@@ -1,4 +1,8 @@
 ## Index of source code examples:
 
+\Arabic Text Extraction
 \Convert PDF To CSV
+\Detect Lines in PDF
+\OCR Analyser
 \PDF Batch Processing
+\Read Text From Noisy Image
